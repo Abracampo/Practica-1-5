@@ -1,0 +1,20 @@
+Mi Algoritmo - Cómo sublimar remeras
+- Obtener archivo en formato jpg de lo que se pretende sublimar
+- Abrir el programa de diseño Corel Draw o el que más guste
+- Copiar, insertar o descargar el archivo en formato jpg o la imagen de dicho archivo en el
+     programa de diseño Corel Draw
+- Ya en CorelDraw o programa de diseño preferido realizar los ajustes necesarios
+- Ajustar tamaño de la imagen como lo requiera el cliente
+- Ajustar colores y cualquier otro atributo de ser necesario a pedido del cliente y guardar archivo
+- Encender impresoeea
+    - estalecer conexion con pc e impresora
+    - verificar si la impresora tiene papel y sino colocar lo necesario
+- Realizar los ajustes del formato de pre-impresión del archivo necesarios para la impresion
+- Enviar archivo a imprimir en hojas sublimable
+-Recortar la imagen impresa y pegar sobre la remera en el sitio deseado por el cliente
+-Encender plancha a 180º y 180 segundos y esperar que la misma alcance los grados de calentamiento establecido
+-Posicionar la remera sobre la plancha con la cara de la imagen hacia arriba y que quede centrada
+-Colocar el papel teflonado sobre la imagen
+-Bajar la plancha y esperar el tiempo prestablecido (180 segundos a 180ª)
+-Retirar remera de la plancha y esperar que enfrie. 
+ - retirar papel sublimado
